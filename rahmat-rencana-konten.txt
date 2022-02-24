@@ -4,3 +4,4 @@ RENCANA KONTEN :
 2. Bikin Tutorial Laravel 9 versi ku
 3. Pelatihan Digitalent
   * Front End Programmer
+4. Bikin tutorial Laravel 8 versi ku
