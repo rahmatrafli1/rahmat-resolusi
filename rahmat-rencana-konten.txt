@@ -1,0 +1,5 @@
+RENCANA KONTEN :
+
+1. Bikin Tutorial Git dasar
+2. Bikin Tutorial Laravel 9 versi ku
+3. Pelatihan Digitalent
